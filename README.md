@@ -16,3 +16,4 @@ To participate in this workshop, you will need a MathWorks® account [(create Ma
 - [Image Processing Toolbox™](https://www.mathworks.com/products/signal.html)
 - [Wavelet Toolbox™](https://www.mathworks.com/products/wavelet.html)
 
+Copyright 2022, The MathWorks, Inc.
